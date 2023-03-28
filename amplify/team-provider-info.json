@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-documentscanner-dev-225344-authRole",
+      "UnauthRoleArn": "arn:aws:iam::315342557892:role/amplify-documentscanner-dev-225344-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::315342557892:role/amplify-documentscanner-dev-225344-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-documentscanner-dev-225344-deployment",
+      "UnauthRoleName": "amplify-documentscanner-dev-225344-unauthRole",
+      "StackName": "amplify-documentscanner-dev-225344",
+      "StackId": "arn:aws:cloudformation:us-west-2:315342557892:stack/amplify-documentscanner-dev-225344/4ea18fa0-ba59-11ed-85fb-02cb1f966a6b",
+      "AmplifyAppId": "d2g57hhnpghnwh",
+      "ApiURL": "https://592z8gknm2.execute-api.us-west-2.amazonaws.com/Prod",
+      "UserFileBucket": "docscanner-bucket"
+    },
+    "categories": {
+      "auth": {
+        "documentscannerb870f318": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2g57hhnpghnwh",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

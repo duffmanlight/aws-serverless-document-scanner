@@ -80,3 +80,25 @@ To publish the frontend to AWS cloud hosting:
 ```bash
 amplify publish
 ```
+
+
+PERSONAL NOTES:
+CloudFormation outputs from deployed stack
+---------------------------------------------------------------------------------------------------------------------
+Outputs
+---------------------------------------------------------------------------------------------------------------------
+Key                 ApiURL
+Description         API endpoint URL for Prod environment
+Value               https://592z8gknm2.execute-api.us-west-2.amazonaws.com/Prod
+
+Key                 UserFileBucket
+Description         Bucket name
+Value               docscanner-bucket
+
+Key                 Region
+Description         Region where the backend is deployed
+Value               us-west-2
+---------------------------------------------------------------------------------------------------------------------
+
+
+Successfully created/updated stack - amplify-documentscanner-dev-225344 in us-west-2
